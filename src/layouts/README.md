@@ -1,0 +1,1 @@
+This is just a special folder for placing any layout based components.

@@ -1,0 +1,1 @@
+A directory where you manage your application's global state using state management libraries.
