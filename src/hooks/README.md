@@ -1,0 +1,1 @@
+This folder will only store the global hooks that are used across multiple pages.

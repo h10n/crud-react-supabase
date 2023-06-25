@@ -1,0 +1,18 @@
+- react query hooks should be in service or pages folder? (Resolved)
+- use supabase auth listener (Resolved)
+- session protection in state, storage, or fetch? (Resolved)
+- check rest query using react query is it still re render?
+- move supabase.ts to lib folder (Resolved)
+- linter
+- error handling/ & logging
+- split style to style.ts
+- roles
+- permissions/acl
+- loading animations
+- modal confirmation dialog
+- language/localization
+- unit tests
+- refactoring & cleanup
+- landing pages
+- chart mocks
+- remove unused packages
